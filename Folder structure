@@ -1,0 +1,8 @@
+lib/
+  ├── screens/
+  │   ├── home_screen.dart
+  │   ├── course_list_screen.dart
+  │   └── course_detail_screen.dart
+  ├── widgets/
+  │   └── category_tile.dart
+  ├── main.dart
