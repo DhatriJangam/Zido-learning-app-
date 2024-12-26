@@ -1,0 +1,16 @@
+name: zidio_learning_app
+description: A cutting-edge learning app built with Flutter
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5 # For state management
+  flutter_icons: ^1.1.0 # For icons
+  cached_network_image: ^3.2.0 # For image caching
+  google_fonts: ^2.3.0 # For custom fonts
+  firebase_core: ^2.13.0 # Firebase integration if needed
+  firebase_auth: ^4.2.0 # User authentication (optional)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
